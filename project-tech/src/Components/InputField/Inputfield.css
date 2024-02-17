@@ -1,0 +1,16 @@
+.label_container{
+    display: grid;
+}
+.input_container{
+    width: 360px;
+    height: 32px;
+    margin-left: 5px;
+    outline: 0;
+    border-width: 0 0 1px;
+}
+.error_message{
+    background-color: red;
+    border: 1px solid rgb(131, 67, 67) ;
+    width: 300px;
+    margin: 10px;
+}

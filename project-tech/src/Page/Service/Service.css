@@ -1,0 +1,12 @@
+.service_container{
+    height: 967.87px;
+    width: 1440px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.detail-container{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 120px;
+    margin-top: 30px;
+}

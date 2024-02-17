@@ -1,0 +1,19 @@
+.blogContainer{
+    width: 1474.87px;
+    height: 1277.12px;
+    background-image: url('../../assets/Rectangle.png');
+    
+}
+.text-container{
+    margin-left: 178px;
+    width: 1084px;
+    height: 373.69px;
+    margin-top: 178px;
+}
+.img-container{
+    display: flex;
+    justify-content: space-between;
+}
+.blogContainerlist{
+    display: flex;
+}
