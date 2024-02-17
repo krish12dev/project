@@ -1,0 +1,30 @@
+
+*{
+    margin: 0px;
+    /* height: 5758px;
+    width: 1440px; */
+}
+.container_service{
+    display: flex;
+    height: 800px;
+    width: 1440px;
+    justify-content: space-between;
+    background-image: url(../../assets/_Layer_.png)
+}
+.img_container{
+position: relative;
+}
+.icon_list ul{
+    display: flex;
+    margin: 20px;
+    list-style: none;
+    column-gap: 20px;
+}
+.btn-contact{
+    width: 178px;
+    height: 54px;
+    margin-top: 38px;
+    background-color: #FF6400;
+    border-radius: 20px;
+    padding: 10px;
+}
